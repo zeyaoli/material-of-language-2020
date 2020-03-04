@@ -14,3 +14,35 @@ Organics of Domination:   "representation", "bourgeois novel", "death", "heat", 
 Informatics of Domination: "simulation", "science fiction", "surface", "noise", "cyborg citizenship"
 
 Colors of Domination: "sim uk` sio n\x1f", "sci enc e\x1ff cti on\x1f", "suq f c d", "moi  se\x1f", "dyb org ci  siz ens gip"
+
+
+
+## Assignment 2 - Love Without Possession
+
+What is love? What does love mean? Artist Mount Eerie shows his meaning of love in the song "Love Without Possession" and I make the concrete poetry based on the song itself. The work is meant to explore the connection between image and lyrics, and how can word visualization enhance the song listening experience. 
+
+What would be the use in becoming a symbol of walking desolation? 
+
+![love_desolation](https://github.com/zeyaoli/material-of-language-2020/blob/master/love_without_possession_pics/love_desolation.png)
+
+
+“Love," a small word
+Unable to hold
+
+![a small word](https://github.com/zeyaoli/material-of-language-2020/blob/master/love_without_possession_pics/love_a_small_word.png)
+
+While we stretch at its meaning
+![stretch meaning](https://github.com/zeyaoli/material-of-language-2020/blob/master/love_without_possession_pics/we_stretch_at_its_meaning.png)
+
+This love has no recipient
+![no recipient](https://github.com/zeyaoli/material-of-language-2020/blob/master/love_without_possession_pics/no_recipient.png)
+
+But still lies there smoldering
+Indifferent stars in the night sky
+![star](https://github.com/zeyaoli/material-of-language-2020/blob/master/love_without_possession_pics/love_with_star.png)
+
+I’ll know that when we collided
+We both broke each other open
+
+![collided](https://github.com/zeyaoli/material-of-language-2020/blob/master/love_without_possession_pics/when_we_collided_we_both_broke_each_other_open.png)
+
